@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @baeyuu
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning ...Data science and machine learning
-- 💞️ I’m looking to collaborate on ...Any automobile project
+- 👋 Hi, I’m Bayo Alabi @baeyuu
+- 👀 I’m interested in Data science and Analytics
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently learning ...Building AI Models and machine learning
+- 💞️ I’m looking to collaborate on ...Any Data Science/Analytics/Machine Learning project
 - 📫 How to reach me ...olabayoalabi@gmail.com
 
 <!---

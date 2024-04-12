@@ -13,6 +13,10 @@ Pizza Sales Analysis and Report using PostgresSQL and PowerBI
 This project provides insight into the sales performance of a Pizza brand company for the calendar year 2015. By analyzing various parts of the sales data, we seek to identify trends,
 make data-inspired recommendations and understand the company's sales performance.
 
+
+![image](https://github.com/baeyuu/Portfolio/assets/64594215/2e8ed06e-6d45-413c-9031-4cfa8536a01f)
+
+
 ### Data Sources 
 
 Sales Data: The Primary dataset used for this analysis is the "pizza_sales.csv" which contains detailed sales information on all the company's products.
